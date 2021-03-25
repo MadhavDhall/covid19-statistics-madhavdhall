@@ -1,0 +1,30 @@
+{
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/",
+  icons": [
+        {
+            "src": "./favicon.ico",
+            "sizes": "57x57",
+            "type": "image/x-icon",
+            "density": 0.75
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "144x144",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "152x152",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "./favicon.ico",
+            "sizes": "512x512",
+            "type": "image/x-icon"
+        }
+    ]
+}

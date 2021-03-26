@@ -1,8 +1,8 @@
 {
   "name": "COVID-19 Statistics of India By Madhav Dhall",
   "short_name": "COVID-19 Statistics",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "theme_color": "#0b065e",
+  "background_color": "#0b065e",
   "display": "standalone",
   "scope": "/",
   "start_url": "/covid19-statistics-madhavdhall",
